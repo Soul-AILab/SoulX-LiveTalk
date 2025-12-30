@@ -66,8 +66,7 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## Acknowledgement
-- [Infinitetalk](https://github.com/MeiGen-AI/InfiniteTalk): the base model we built upon.
-- [Wan](https://github.com/Wan-Video/Wan2.1): the base model we built upon.
+- [Infinitetalk](https://github.com/MeiGen-AI/InfiniteTalk) and [Wan](https://github.com/Wan-Video/Wan2.1): the base model we built upon.
 - [Self forcing](https://github.com/guandeh17/Self-Forcing): the codebase we built upon.
 - [DMD](https://github.com/tianweiy/DMD2) and [Self forcing++](https://github.com/justincui03/Self-Forcing-Plus-Plus): the key distillation technique used by our method.
 > [!TIP]
