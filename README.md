@@ -33,9 +33,13 @@
 If you find our work useful in your research, please consider citing:
 
 ```
-@misc{shenle@22222,
-    author={Shen Le, Qiao Qian, Yu Tan, Zhou Ke, Yutianhang, Zhan Yu, Wang Zhenjie, Zhen Dingcheng, Tao Ming, Yin Shunshun, Liu Siyuan},
-    title={SoulX-LiveTalk Technical Report},
-    year={2025},
+@misc{shen2025soulxlivetalktechnicalreport,
+      title={SoulX-LiveTalk Technical Report}, 
+      author={Le Shen and Qiao Qian and Tan Yu and Ke Zhou and Tianhang Yu and Yu Zhan and Zhenjie Wang and Ming Tao and Shunshun Yin and Siyuan Liu},
+      year={2025},
+      eprint={2512.23379},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.23379}, 
 }
 ```
