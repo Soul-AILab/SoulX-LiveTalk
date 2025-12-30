@@ -15,7 +15,7 @@
 <a href='#'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
 
-> **TL; DR:**  SoulX-LiveTalk is xxxx. 
+<!-- > **TL; DR:**  SoulX-LiveTalk is xxxx.  -->
 
 ## 🔥News
 - **2025.12.30** - We released **SoulX-LiveTalk Technical Report** on [Arxiv](https://arxiv.org/pdf/2512.23379) and [GitHub repository](./SoulX_LiveTalk.pdf).
