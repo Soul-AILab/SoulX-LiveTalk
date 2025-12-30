@@ -17,6 +17,9 @@
 
 > **TL; DR:**  SoulX-LiveTalk is xxxx. 
 
+## 🔥News
+- **2025.12.30** - We released **SoulX-LiveTalk Technical Report** on [Arxiv](#) and [GitHub repository](./SoulX_LiveTalk.pdf).
+- **2025.12.30** - We released **Project** on [SoulX-LiveTalk](https://soul-ailab.github.io/soulx-livetalk/).
 
 ## 📑 Todo List
 - [x] Technical report 
