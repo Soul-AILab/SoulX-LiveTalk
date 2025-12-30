@@ -19,7 +19,7 @@
 
 ## 🔥News
 - **2025.12.30** - We released **SoulX-LiveTalk Technical Report** on [Arxiv](https://arxiv.org/pdf/2512.23379) and [GitHub repository](./SoulX_LiveTalk.pdf).
-- **2025.12.30** - We released **Project** on [SoulX-LiveTalk](https://soul-ailab.github.io/soulx-livetalk/).
+- **2025.12.30** - We released **Project page** on [SoulX-LiveTalk](https://soul-ailab.github.io/soulx-livetalk/).
 
 ## 📑 Todo List
 - [x] Technical report 
