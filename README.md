@@ -27,3 +27,15 @@
 - [ ] Inference code
 - [ ] Checkpoint release
 - [ ] Online demo
+
+## 📚 Citation
+
+If you find our work useful in your research, please consider citing:
+
+```
+@misc{shenle@22222,
+    author={Shen Le, Qiao Qian, Yu Tan, Zhou Ke, Yutianhang, Zhan Yu, Wang Zhenjie, Zhen Dingcheng, Tao Ming, Yin Shunshun, Liu Siyuan},
+    title={SoulX-LiveTalk Technical Report},
+    year={2025},
+}
+```
