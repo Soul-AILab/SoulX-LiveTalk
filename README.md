@@ -40,6 +40,15 @@
   </tbody>
 </table>
 
+
+## Quickstart
+### Installation
+Coming soon!
+### Model download
+Coming soon!
+### Inference
+Coming soon!
+
 ## 📚 Citation
 
 If you find our work useful in your research, please consider citing:
@@ -55,3 +64,11 @@ If you find our work useful in your research, please consider citing:
       url={https://arxiv.org/abs/2512.23379}, 
 }
 ```
+
+## Acknowledgement
+- [Infinitetalk](https://github.com/MeiGen-AI/InfiniteTalk): the base model we built upon.
+- [Wan](https://github.com/Wan-Video/Wan2.1): the base model we built upon.
+- [Self forcing](https://github.com/guandeh17/Self-Forcing) and [Self forcing++](https://github.com/justincui03/Self-Forcing-Plus-Plus): the codebase we built upon.
+- [DMD](https://github.com/tianweiy/DMD2): the key distillation technique used by our method.
+> [!TIP]
+> If you find our work useful, please also consider starring the original repositories of these foundational methods.
