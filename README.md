@@ -3,7 +3,7 @@
 
 <h1>SoulX-LiveTalk</h1>
 
-[Le Shen $^*$](https://openreview.net/profile?id=%7ELe_Shen3), [Qian Qiao $^*$](https://qianqiaoai.github.io/), [Tan Yu $^*$](https://jiayoujiayoujiayoua.github.io/), [Ke Zhou](), [Tianhang Yu](#), [Yu Zhan](#),  [Zhenjie Wang](#), [Dingcheng Zhen](#), [Ming Tao](#), [Shunshun Yin](#), [Siyuan Liu](#) <sup>&#9993;</sup>
+[Le Shen*](https://openreview.net/profile?id=%7ELe_Shen3), [Qian Qiao*](https://qianqiaoai.github.io/), [Tan Yu*](https://jiayoujiayoujiayoua.github.io/), [Ke Zhou](), [Tianhang Yu](#), [Yu Zhan](#),  [Zhenjie Wang](#), [Dingcheng Zhen](#), [Ming Tao](#), [Shunshun Yin](#), [Siyuan Liu](#) <sup>&#9993;</sup>
 
 <sup>*</sup>Equal Contribution
 <sup>&#9993;</sup>Corresponding Author
