@@ -20,6 +20,7 @@
 
 ## 📑 Todo List
 - [x] Technical report 
-- [x] Project Page 
+- [x] Project Page
 - [ ] Inference code
+- [ ] Checkpoint release
 - [ ] Online demo
