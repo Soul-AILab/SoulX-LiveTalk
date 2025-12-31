@@ -10,7 +10,7 @@
 
 
 <a href='https://soul-ailab.github.io/soulx-livetalk/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
-<a href='https://arxiv.org/pdf/2512.23379'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
+<a href='https://arxiv.org/pdf/2512.23379'><img src='https://img.shields.io/badge/Technical-Report-red'></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/🤗 Hugging Face-Spaces-blue" alt="HF space"></a>&nbsp;
 <a href='#'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
