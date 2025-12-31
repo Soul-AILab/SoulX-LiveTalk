@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1>SoulX-LiveTalk: Real-Time Audio-Driven Avatar Generation via Self-Correcting Bidirectional Distillation</h1>
+<h1>SoulX-LiveTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation</h1>
 
 [Le Shen*](https://openreview.net/profile?id=%7ELe_Shen3), [Qian Qiao*](https://qianqiaoai.github.io/), [Tan Yu*](https://jiayoujiayoujiayoua.github.io/), [Ke Zhou](), [Tianhang Yu](#), [Yu Zhan](#),  [Zhenjie Wang](#), [Dingcheng Zhen](#), [Ming Tao](#), [Shunshun Yin](#), [Siyuan Liu](#) <sup>&#9993;</sup>
 
@@ -56,7 +56,7 @@ If you find our work useful in your research, please consider citing:
 
 ```
 @misc{shen2025soulxlivetalktechnicalreport,
-      title={SoulX-LiveTalk: Real-Time Audio-Driven Avatar Generation via Self-Correcting Bidirectional Distillation}, 
+      title={SoulX-LiveTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation}, 
       author={Le Shen and Qiao Qian and Tan Yu and Ke Zhou and Tianhang Yu and Yu Zhan and Zhenjie Wang and Ming Tao and Shunshun Yin and Siyuan Liu},
       year={2025},
       eprint={2512.23379},
